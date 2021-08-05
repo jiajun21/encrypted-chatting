@@ -7,7 +7,7 @@
 ## how to configure:
 1. modify ./include/protocol.h
 
-how to compile:
+## how to compile:
 1. place mysql/*.h under /usr/include/mysql
 2. place openssl/*.h under /usr/include/openssl
 3. place libcrypto.so under (somedir)
